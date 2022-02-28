@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/vc-crm
+vc-crm.so
+vc-crm.dylib
+vc-crm.dll
+vc-crm.a
+vc-crm.lib
+vc-crm-test-*
+*.exe
+*.o
+*.obj
+*.lst
